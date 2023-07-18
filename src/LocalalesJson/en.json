@@ -1,0 +1,42 @@
+{
+    "navbar": {
+      "home": "Home",
+      "youtubeMp3": "YouTube to MP3",
+      "youtubeMp4": "YouTube to MP4",
+      "youtubeShorts": "YouTubeShorts ",
+      "language": "English",
+      
+      "title": "Youtube Downloader",
+      "button": "Start",
+      "videoDownloader": "Youtube Video Downloader",
+      "placeholder": "Paste Youtube link",
+      "terms": "By using our service you are accepting our terms of service.",
+      "downloaderDescription": "Y2Mate is the fastest Youtube Downloader tool that allows you to easily convert and download videos and audio from youtube for free and in the best available quality. Y2Mate is the ultimate tool for downloading unlimited youtube videos without any need for registration. You can quickly convert and download hundreds of videos and music files directly from youtube and other social media websites. We support all audio and video formats like MP3, MP4, M4V, FLV, WEBM, 3GP, WMV, AVI, etc.; the most fantastic thing is that it's completely free.",
+      "convertTitle": "How to Convert Youtube to MP3 with Y2Mate?",
+      "convertTitle2": "Why use our Online Video Downloader?",
+      "convertStep1": "Open Youtube and copy the video URL you want to download in MP3.",
+      "convertStep2": "Paste the video URL in the Search box, Tool will fetch video info.",
+      "convertStep3": "Select the Audio quality you need and click the \"Convert\" button.",
+      "convertStep4": "After the conversion is successfully completed, click the \"Download\" button.",
+      "convertStep5": "Once the Audio is downloaded, you can play it whenever and wherever you want.",
+      "useStep1": "Unlimited MP3 Conversions, so you can convert all your videos.",
+      "useStep2": "We use High-Speed encoders to convert Youtube videos to music files.",
+      "useStep3": "We offer Unlimited Downloads, convert as much as you can.",
+      "useStep4": "No Signup/Registration required, our service is totally free.",
+      "useStep5": "We support multiple qualities, e.g., 64kbps, 128kbps, and 160kbps.",
+      "s3.1":"Unlimited Conversions",
+      "p1":"We offers unlimited conversions of youtube videos to mp3 and mp4.",
+      "s3.2":"Auto Fetch from Youtube ",
+      "p2":"We automatically fetch data from Youtube, you just have to copy and paste the youtube URL.",
+      "s3.3":"No Registration Required ",
+      "p3":"You don't need to register to convert and download youtube videos to mp4 and mp3 format.",
+      "s3.4":"Faster Video Conversion",
+      "p4":"We use the latest technologies for encoding system, so you don't have to wait much for the conversion.",
+      "s3.5":"Browser Compatibility ",
+      "p5":"Our web app is fully compatible with the latest browsers like Chrome, Firefox, Safari, Microsoft Edge, etc.",
+      "s3.6":"Completely Mobile friendly",
+      "p6":"Our site can be used on any device to download your favorite youtube videos to mp4 and mp3."
+      
+    }
+  }
+  

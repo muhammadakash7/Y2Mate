@@ -1,0 +1,17 @@
+.fs > li > a:hover {
+    color:  #ff0068;
+
+}
+.dm {
+    background-color: #ff0068;
+    color: #fff;
+}
+.txt {
+    color: #ff0068;
+    font-weight: bold;
+    font-size: 25px;
+}
+.act  {
+  background-color: #EAEAEA;
+  /* padding: 15px 15px 15px 15px; */
+}

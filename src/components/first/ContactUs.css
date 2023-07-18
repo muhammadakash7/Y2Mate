@@ -1,0 +1,19 @@
+img {
+    width: 40px;
+    height: 40px;
+    margin: 0px 10px 0px 10px ;
+}
+
+.ulitems li {
+    list-style: none;
+    display: contents;
+}
+
+/* ul {
+    padding: 50px;
+} */
+
+
+/* .container {
+    height: 800px;
+} */

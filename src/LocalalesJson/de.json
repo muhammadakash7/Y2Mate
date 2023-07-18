@@ -1,0 +1,41 @@
+{
+    "navbar": {
+      "home": "主页",
+      "youtubeMp3": "YouTube 转 MP3",
+      "youtubeMp4": "YouTube 转 MP4",
+      "language": "中文",
+      "youtubeShorts":"YouTube 短片",
+
+      "title": "影片下载",
+      "button": "开始",
+      "videoDownloader": "YouTube 视频下载器",
+      "placeholder": "粘贴 YouTube 链接",
+      "terms": "使用我们的服务即表示您接受我们的服务条款",
+       "downloaderDescription": "Y2Mate 是最快的 Youtube 下载器工具，可让您轻松免费转换和下载 YouTube 上的视频和音频，并获得最佳质量。 Y2Mate 是下载无限 YouTube 视频的终极工具，无需注册。您可以直接从 YouTube 和其他社交媒体网站快速转换和下载数百个视频和音乐文件。我们支持MP3、MP4、M4V、FLV、WEBM、3GP、WMV、AVI等所有音视频格式；最棒的是它是完全免费的。",
+       "convertTitle": "如何使用 Y2Mate 将 Youtube 转换为 MP3？",
+       "convertTitle2": "为什么使用我们的在线视频下载器？",
+       "convertStep3": "选择您需要的音频质量，然后单击“转换”按钮。",
+       "convertStep4": "转换成功完成后，单击“下载”按钮。",
+      "convertStep5": "下载音频后，您可以随时随地播放。",
+       "convertStep1": "打开 Youtube 并复制您要下载的 MP3 视频 URL.",
+       "convertStep2": "将视频 URL 粘贴到搜索框中，工具将获取视频信息。",
+       "useStep1": "无限制的 MP3 转换，因此您可以转换所有视频.",
+       "useStep2": "我们使用高速编码器将 Youtube 视频转换为音乐文件。",
+       "useStep3": "我们提供无限下载，尽可能多地转换。",
+      "useStep4": "无需注册/注册，我们的服务完全免费。",
+      "useStep5": "我们支持多种质量，例如 64kbps、128kbps 和 160kbps.",
+       "s3.1":"无限转换",
+       "p1":"我们提供无限量的 YouTube 视频到 mp3 和 mp4 的转换。",
+       "s3.2":"自动从 YouTube 获取 ",
+       "p2":"我们自动从 YouTube 获取数据，您只需复制并粘贴 YouTube URL。",
+       "s3.3":"无需注册",
+       "p3":"您无需注册即可将 YouTube 视频转换并下载为 mp4 和 mp3 格式。",
+       "s3.4":"更快的视频转换",
+       "p4":"我们使用最新的编码系统技术，因此您无需等待太多的转换时间。",
+       "s3.5":"浏览器兼容性 ",
+       "p5":"我们的网络应用程序与 Chrome、Firefox、Safari、Microsoft Edge 等最新浏览器完全兼容。",
+       "s3.6":"完全移动友好",
+       "p6":"我们的网站可以在任何设备上使用，将您最喜爱的 YouTube 视频下载到 mp4 和 mp3。"
+    }
+  }
+  

@@ -1,0 +1,41 @@
+{
+    "navbar": {
+      "home": "Accueil",
+      "youtubeMp3": "YouTube en MP3",
+      "youtubeMp4": "YouTube en MP4",
+      "youtubeShorts":"Courts métrages YouTube",
+      "language": "Français",
+
+      "title": "Téléchargeur YouTube",
+      "button": "Commencer",
+      "videoDownloader": "Téléchargeur de vidéos Youtube",
+      "placeholder": "Coller le lien Youtube",
+      "terms": "En utilisant notre service, vous acceptez nos conditions d'utilisation.",
+       "downloaderDescription": "Y2Mate est l'outil de téléchargement Youtube le plus rapide qui vous permet de convertir et de télécharger facilement des vidéos et de l'audio depuis YouTube gratuitement et dans la meilleure qualité disponible. Y2Mate est l'outil ultime pour télécharger des vidéos YouTube illimitées sans aucune inscription. Vous pouvez rapidement convertir et télécharger des centaines de vidéos et de fichiers musicaux directement à partir de YouTube et d'autres sites Web de médias sociaux. Nous prenons en charge tous les formats audio et vidéo tels que MP3, MP4, M4V, FLV, WEBM, 3GP, WMV, AVI, etc. la chose la plus fantastique est qu'il est entièrement gratuit.",
+       "convertTitle": "Comment convertir Youtube en MP3 avec Y2Mate ?",
+       "convertTitle2": "Pourquoi utiliser notre téléchargeur de vidéos en ligne ?",
+       "convertStep1": "Ouvrez Youtube et copiez l'URL de la vidéo que vous souhaitez télécharger en MP3.",
+       "convertStep2": "Collez l'URL de la vidéo dans la zone de recherche, l'outil récupérera les informations sur la vidéo.",
+       "convertStep3": "Sélectionnez la qualité audio dont vous avez besoin et cliquez sur le bouton \"Convertir\".",
+       "convertStep4": "Une fois la conversion terminée, cliquez sur le bouton \"Télécharger\".",
+      "convertStep5": "Une fois l'audio téléchargé, vous pouvez le lire quand et où vous voulez.",
+       "useStep1": "Conversions MP3 illimitées, vous pouvez donc convertir toutes vos vidéos.",
+       "useStep2": "Nous utilisons des encodeurs haute vitesse pour convertir les vidéos Youtube en fichiers musicaux.",
+       "useStep3": "Nous offrons des téléchargements illimités, convertissez autant que vous le pouvez.",
+      "useStep4": "Aucune inscription / inscription requise, notre service est totalement gratuit.",
+      "useStep5": "Nous prenons en charge plusieurs qualités, par exemple, 64kbps, 128kbps et 160kbps.",
+       "s3.1":"Conversions illimitées",
+       "p1":"Nous offrons des conversions illimitées de vidéos youtube en mp3 et mp4.",
+       "s3.2":"Récupération automatique depuis Youtube ",
+       "p2":"Nous récupérons automatiquement les données de Youtube, il vous suffit de copier et coller l'URL youtube.",
+       "s3.3":"Aucune inscription requise ",
+       "p3":"Vous n'avez pas besoin de vous inscrire pour convertir et télécharger des vidéos youtube au format mp4 et mp3.",
+       "s3.4":"FConversion vidéo plus rapide",
+       "p4":"Nous utilisons les dernières technologies pour le système d'encodage, vous n'avez donc pas à attendre beaucoup pour la conversion.",
+       "s3.5":"Compatibilité du navigateur",
+       "p5":"Notre application Web est entièrement compatible avec les derniers navigateurs comme Chrome, Firefox, Safari, Microsoft Edge, etc.",
+       "s3.6":"Entièrement compatible avec les mobiles",
+       "p6":"Notre site peut être utilisé sur n'importe quel appareil pour télécharger vos vidéos youtube préférées en mp4 et mp3."
+    }
+  }
+  

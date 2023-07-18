@@ -1,0 +1,40 @@
+.footer {
+  text-align: center;
+  background-color: #EAEAEA;
+  margin-top: 13px;
+  padding: 15px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-evenly; */
+  justify-content: center;
+}
+
+a {
+  padding: 10px;
+}
+
+.footer-content a span {
+  color: rgb(152, 154, 156);
+  font-size: 13px;
+}
+
+.footer-content a:hover span {
+  color: rgb(255, 0, 104);
+}
+
+.footer-column {
+  flex-basis: 30%;
+}
+
+.social-media-list li a {
+  text-decoration: none;
+  color: #333;
+}

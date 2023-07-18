@@ -1,0 +1,23 @@
+{
+    "home": {
+      "title": "Youtube Downloader",
+      "placeholder": "Paste Youtube link",
+      "button": "Start",
+      "terms": "By using our service you are accepting our terms of service.",
+      "videoDownloader": "Youtube Video Downloader",
+      "downloaderDescription": "Y2Mate is the fastest Youtube Downloader tool that allows you to easily convert and download videos and audio from youtube for free and in the best available quality...",
+      "convertTitle": "How to Convert Youtube to MP3 with Y2Mate?",
+      "convertStep1": "Open Youtube and copy the video URL you want to download in MP3.",
+      "convertStep2": "Paste the video URL in the Search box, Tool will fetch video info.",
+      "convertStep3": "Select the Audio quality you need and click the \"Convert\" button.",
+      "convertStep4": "After the conversion is successfully completed, click the \"Download\" button.",
+      "convertStep5": "Once the Audio is downloaded, you can play it whenever and wherever you want.",
+      "whyUse": "Why use our Youtube to MP3 Downloader?",
+      "useStep1": "Unlimited MP3 Conversions, so you can convert all your videos.",
+      "useStep2": "We use High-Speed encoders to convert Youtube videos to music files.",
+      "useStep3": "We offer Unlimited Downloads, convert as much as you can.",
+      "useStep4": "No Signup/Registration required, our service is totally free.",
+      "useStep5": "We support multiple qualities, e.g., 64kbps, 128kbps, and 160kbps."
+    }
+  }
+  

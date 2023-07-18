@@ -1,0 +1,80 @@
+.itemstyle {
+    list-style: decimal;
+    padding-left: 13px;
+}
+
+h5{
+    padding-left: 1px;
+}
+.bord {
+    border: 1px solid black;
+    background-color: white;
+}
+.tab button{
+    border: 5px solid #ddd;
+    cursor: pointer;
+    padding: 10px 0;
+    font-size: 18px;
+    width: 50%;
+    font-weight: 700;
+}
+.tab button:hover{
+    background-color:rgb(204,204,204);
+}
+/* css for cross icon */
+.input-container {
+    position: relative;
+  }
+  
+  .clear-icon {
+    /* position: absolute; */
+    top: 60%;
+    /* right: 10px; */
+    /* transform: translateY(-10%); */
+    /* opacity: 0.5; */
+  }
+  
+  .clear-icon:hover {
+    opacity: 1;
+  }
+
+
+
+/* .search-con {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    justify-content: center;
+    border: 2px solid pink;
+ /* } */
+
+/* .inside-con {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 60px;
+    width: 70%;
+    height: 320px;
+    border: 2px solid black;
+} */
+
+/* .inside-con input[type="text"],
+.inside-con button {
+  margin-right: 10px;
+} */
+
+/* .text-con {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+} */
+
+/* .inside-text-con {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 70%;
+    height: 170px;
+    border: 2px solid black;
+} */
